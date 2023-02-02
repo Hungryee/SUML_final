@@ -1,0 +1,4 @@
+fastbook
+fastai
+pathlib
+streamlit
