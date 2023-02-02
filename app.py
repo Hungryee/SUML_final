@@ -9,7 +9,7 @@ import streamlit as sl
 os.environ['KMP_DUPLICATE_LIB_OK']='True'
 
 def init_learner():
-    path = Path('dataset/images/images')
+    path = Path('dataset/images/Images')
 
 
     data = DataBlock(
